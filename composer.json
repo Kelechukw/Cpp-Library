@@ -1,6 +1,6 @@
 {
     "name": "Kelechukw/calculator",
-    "description": "This is a simple calculator that performs multiplication,
+    "description": "This is a simple calculator that performs multiplication",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -15,4 +15,6 @@
         "psr-4": {
             "Kelechukw\\Calculator\\": "src/"
         }
-    },
+    }
+
+    
