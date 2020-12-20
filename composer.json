@@ -1,0 +1,18 @@
+{
+    "name": "Kelechukw/calculator",
+    "description": "This is a simple calculator that performs multiplication,
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kelechuwku Chima",
+            "email": "yekachima@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kelechukw\\Calculator\\": "src/"
+        }
+    },
