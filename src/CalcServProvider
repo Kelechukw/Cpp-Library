@@ -1,6 +1,6 @@
 <?php
 
-namespace Patricmutwiri\Calculator;
+namespace Kelechukw\Calculator;
 
 use Illuminate\Support\ServiceProvider;
 
