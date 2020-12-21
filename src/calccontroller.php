@@ -3,7 +3,8 @@ namespace Kelechukw\Calculator;
 
 //Handle HTTP Requests
 use App\Http\Requests;
-use App\Http\Controllers\Controller;
+//path to the controller file (calccontroller.php)
+use App\Controller;
 
 class CC extends Controller
 {
