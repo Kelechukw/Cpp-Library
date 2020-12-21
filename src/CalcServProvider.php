@@ -17,7 +17,7 @@ class CalculatorServiceProvider extends ServiceProvider
     public function register()
     {
         //register services
-        $this->app->make('Kelechukw\Calculator\CC');
+        $this->app->make('Kelechukw\Calculator\calccontroller');
          $this->loadViewsFrom(__DIR__.'/views', 'calculator');
     }
 }
