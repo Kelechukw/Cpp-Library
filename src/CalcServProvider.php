@@ -21,3 +21,4 @@ class CalculatorServiceProvider extends ServiceProvider
          $this->loadViewsFrom(__DIR__.'/views', 'calculator');
     }
 }
+?>
