@@ -1,6 +1,7 @@
+<?php
 namespace Kelechukw\Calculator;
 
-use Illuminate\Http\Request;
+//Handle HTTP Requests
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
@@ -14,4 +15,4 @@ class CC extends Controller
 
  
 }
-© 2020 GitHub, Inc.
+?>
